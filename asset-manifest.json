@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.f9a1cc68.chunk.css",
-    "main.js": "./static/js/main.526d68b7.chunk.js",
-    "main.js.map": "./static/js/main.526d68b7.chunk.js.map",
+    "main.css": "./static/css/main.cdea3d8a.chunk.css",
+    "main.js": "./static/js/main.99f3b17e.chunk.js",
+    "main.js.map": "./static/js/main.99f3b17e.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.0c63c01b.js",
     "runtime-main.js.map": "./static/js/runtime-main.0c63c01b.js.map",
     "static/js/2.6c49f830.chunk.js": "./static/js/2.6c49f830.chunk.js",
     "static/js/2.6c49f830.chunk.js.map": "./static/js/2.6c49f830.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.f9a1cc68.chunk.css.map": "./static/css/main.f9a1cc68.chunk.css.map",
+    "static/css/main.cdea3d8a.chunk.css.map": "./static/css/main.cdea3d8a.chunk.css.map",
     "static/js/2.6c49f830.chunk.js.LICENSE.txt": "./static/js/2.6c49f830.chunk.js.LICENSE.txt",
     "static/media/EuclidSquare-Bold.22d0be7b.woff": "./static/media/EuclidSquare-Bold.22d0be7b.woff",
     "static/media/EuclidSquare-Italic.2537e631.woff": "./static/media/EuclidSquare-Italic.2537e631.woff",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.0c63c01b.js",
     "static/js/2.6c49f830.chunk.js",
-    "static/css/main.f9a1cc68.chunk.css",
-    "static/js/main.526d68b7.chunk.js"
+    "static/css/main.cdea3d8a.chunk.css",
+    "static/js/main.99f3b17e.chunk.js"
   ]
 }
